@@ -2,6 +2,8 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-data/raw/
+
 .vscode/
+data/raw/
 data/processed/
+
